@@ -10,4 +10,4 @@ Movies Application built with React Native and TypeScript
 ## Screenshots
 
 ![AppMovies](https://github.com/andcama/AppMovies/blob/master/assets/screen1.png "Image 1 ")
-![AppMovies](https://github.com/andcama/AppMovies/blob/master/assets/screen1.png "Image 2")
+![AppMovies](https://github.com/andcama/AppMovies/blob/master/assets/screen2.png "Image 2")
